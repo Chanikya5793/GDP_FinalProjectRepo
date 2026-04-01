@@ -4,15 +4,18 @@ import { getAuth } from 'firebase/auth';
 import { getFirestore } from 'firebase/firestore';
 
 const firebaseConfig = {
-  apiKey: 'AIzaSyCkfXjwzLlsBzqvRv2TbKdiL8qIRJqrJGs',
-  authDomain: 'metahub-25cd4.firebaseapp.com',
-  projectId: 'metahub-25cd4',
-  storageBucket: 'metahub-25cd4.appspot.com',
-  messagingSenderId: '191257001803',
-  appId: '1:191257001803:android:72e9daf55dd076aa21f2ce',
+  apiKey: "AIzaSyDTMZXtpOkejuJnr8GtczJ70-uUZ8s5aVk",
+  authDomain: "nwmsuwellnessapp.firebaseapp.com",
+  projectId: "nwmsuwellnessapp",
+  storageBucket: "nwmsuwellnessapp.firebasestorage.app",
+  messagingSenderId: "988316304665",
+  appId: "1:988316304665:web:e74a140f3f5554857d3188",
+  measurementId: "G-K6HX9YBF8S"
 };
 
 const app = getApps().length === 0 ? initializeApp(firebaseConfig) : getApp();
 
 export const db = getFirestore(app);
 export const auth = getAuth(app);
+
+export default app;

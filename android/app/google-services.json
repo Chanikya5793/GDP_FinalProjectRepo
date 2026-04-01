@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "988316304665",
+    "project_id": "nwmsuwellnessapp",
+    "storage_bucket": "nwmsuwellnessapp.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:988316304665:android:c0b5acf68f9b421b7d3188",
+        "android_client_info": {
+          "package_name": "com.metahub"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBTzfZGDCXbRNuXODfMOT0ChC_8iidzCt0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

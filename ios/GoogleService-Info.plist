@@ -3,17 +3,17 @@
 <plist version="1.0">
 <dict>
 	<key>API_KEY</key>
-	<string>AIzaSyAcp_U48StdNCpODVKaLwYqxGz8U0dgxkg</string>
+	<string>AIzaSyAh3bSlj_DkKSPi7HNrmpDQjrCSt5mKNG4</string>
 	<key>GCM_SENDER_ID</key>
-	<string>191257001803</string>
+	<string>899256425483</string>
 	<key>PLIST_VERSION</key>
 	<string>1</string>
 	<key>BUNDLE_ID</key>
-	<string>com.metahub</string>
+	<string>nwmsu.App-ios</string>
 	<key>PROJECT_ID</key>
-	<string>metahub-25cd4</string>
+	<string>loginapp-e119c</string>
 	<key>STORAGE_BUCKET</key>
-	<string>metahub-25cd4.firebasestorage.app</string>
+	<string>loginapp-e119c.firebasestorage.app</string>
 	<key>IS_ADS_ENABLED</key>
 	<false></false>
 	<key>IS_ANALYTICS_ENABLED</key>
@@ -25,6 +25,6 @@
 	<key>IS_SIGNIN_ENABLED</key>
 	<true></true>
 	<key>GOOGLE_APP_ID</key>
-	<string>1:191257001803:ios:c8fd77e2599b989121f2ce</string>
+	<string>1:899256425483:ios:da91ac6ce7b449ed997b0e</string>
 </dict>
 </plist>
